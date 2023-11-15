@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StringXML</string>
+    <string name="self_made_string">This is a self made string value</string>
+</resources>
